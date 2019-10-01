@@ -2,10 +2,8 @@
 layout: page
 ---
 
-# Overview
+Please complete the [E-mail Access Survey][survey]
 
-<img class="overview-image" src="assets/images/screen-capture.png">
-
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+[survey]: <>
 
 <!-- Pull in repostitory-scope variables from _data/page.yml -->
